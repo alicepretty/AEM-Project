@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/porti/clientlibs"/>
+    <filter root="/apps/porti/components"/>
+    <filter root="/apps/porti/i18n"/>
+</workspaceFilter>
