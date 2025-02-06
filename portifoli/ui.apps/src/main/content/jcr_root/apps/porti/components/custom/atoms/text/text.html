@@ -1,0 +1,6 @@
+<sly>
+  <h3 data-sly-test="${wcmmode.edit && !properties.tr_text}">Configure Text</h3>
+  <div data-sly-attribute.data-left-spacing="${properties.addExtraSpacingLeft}">
+    ${properties.tr_text @ context="html"}
+  </div>
+</sly>
